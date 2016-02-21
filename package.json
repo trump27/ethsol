@@ -1,0 +1,43 @@
+{
+  "name": "ethvue",
+  "version": "0.1.0",
+  "description": "ether",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --port 3000"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.2",
+    "babel-plugin-transform-runtime": "^6.5.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-runtime": "^6.5.0",
+    "bootstrap": "^3.3.6",
+    "brace": "^0.7.0",
+    "css-loader": "^0.23.1",
+    "eslint": "^2.0.0",
+    "eslint-config-standard": "^5.1.0",
+    "eslint-loader": "^1.2.1",
+    "eslint-plugin-promise": "^1.0.8",
+    "jquery": "^2.2.0",
+    "json-loader": "^0.5.4",
+    "solc": "^0.2.2-2",
+    "stylus-loader": "^1.5.1",
+    "vue": "^1.0.16",
+    "vue-hot-reload-api": "^1.3.2",
+    "vue-html-loader": "^1.1.0",
+    "vue-loader": "^8.1.0",
+    "vue-router": "^0.7.11",
+    "vue-style-loader": "^1.0.0",
+    "web3": "^0.15.2",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "trm"
+  },
+  "author": "dlab",
+  "license": "MIT"
+}
